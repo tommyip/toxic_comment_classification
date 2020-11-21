@@ -14,12 +14,13 @@ The dataset is from the Kaggle competition [Toxic Comment Classification Challen
 
 Tested with Python 3.8.5.
 
-Dependencies:
+Dependencies (latest versions):
 * numpy
 * pandas
 * matplotlib
 * spacy
 * scikit-learn
+* pytorch
 
 Install with
 
