@@ -21,6 +21,8 @@ Dependencies (latest versions):
 * spacy
 * scikit-learn
 * pytorch
+* wandb
+* simpletransformers
 
 Install with
 
@@ -28,5 +30,5 @@ Install with
 pip install numpy pandas matplotlib spacy sklearn
 
 # Need the large model for word embeddings
-python -m spacy download en_core_web_md
+python -m spacy download en_core_web_lg
 ```
